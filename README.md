@@ -43,9 +43,7 @@
   <ul>
     <li>
       <strong>🤖🧠🤕Stroke-Induced Motor Weakness Severity Detection</strong><br>
-      I am actively developing an AI-driven system to detect motor weakness severity induced by stroke using video recordings of stroke survivors under the supervision of Dr. Mohammed Almekhlafi from the Stroke Unit in the Foothills Medical Centre in Calgary, Canada and Dr. Svetlana Yanushkevich from the Biometric Technologies Lab of the University of Calgary. Leveraging a carefully gathered dataset, cutting-edge technology, and innovative data processing, I propose a novel approach that merges human pose estimation and time series analysis for critical healthcare applications. This project aims to enhance post-stroke patient care through innovative technology.     
-
-      I am actively developing an AI-driven system to detect motor weakness severity induced by stroke using video recordings of stroke survivors. Leveraging a meticulously gathered dataset, cutting-edge technology, and innovative data processing, I propose a novel approach that integrates human pose estimation and time series analysis for critical healthcare applications. This project aims to improve post-stroke patient care through the application of innovative technology.
+      I am actively developing an AI-driven system to detect motor weakness severity induced by stroke using video recordings of stroke survivors under the supervision of Dr. Mohammed Almekhlafi from the Stroke Unit in the Foothills Medical Centre in Calgary, Canada and Dr. Svetlana Yanushkevich from the Biometric Technologies Lab of the University of Calgary. Leveraging a carefully gathered dataset, cutting-edge technology, and innovative data processing, I propose a novel approach that integrates human pose estimation and time series analysis for critical healthcare applications. This project aims to enhance post-stroke patient care through innovative technology.     
     </li>
   </ul>
 
