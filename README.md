@@ -17,6 +17,10 @@
       <strong>Master of Science in Computer Science (Specialization: Artificial Intelligence)</strong><br>
       [🇺🇦 Ukraine, Taras Shevchenko National University of Kyiv], [2019-2021]
     </li>
+    <li>
+      <strong>Bachelor's degree in Computer Science</strong><br>
+      [🇺🇦 Ukraine, Igor Sikorsky Kyiv Polytechnic Institute], [2015-2019]
+    </li>
   </ul>
 
   <h3>Projects 💻</h3>
