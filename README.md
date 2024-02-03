@@ -15,7 +15,9 @@
 My experience includes 5 years of ML‑focused research experience and 3 internships in data science. Check my LinkedIn for my full job and project history. </p>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
+
 - I have experience working with many different programming languages, software, and frameworks, most notably Python, SQL, C, Power BI, and AWS Cloud. 
+
 - I have developed code using Python packages, such as Numpy, Scipy, Pandas, OpenCV, Matplotlib, Scikit-Learn, Pytorch, and Tensorflow.
 
   <h3>Education 📚</h3>
