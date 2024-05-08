@@ -65,7 +65,7 @@ My experience includes 5 years of ML‑focused research experience and 3 interns
   <h3>Learning Journey 🌱</h3>
   <ul>
     <li>
-      <strong>Areas of Focus:</strong> Deep Learning Techniques, Signal Analysis, Computational Neuroscience<br>
+      <strong>Areas of Focus:</strong> Data Analytics, Deep Learning Techniques, Signal Analysis, Computational Neuroscience<br>
       I am exploring and expanding my knowledge in deep learning techniques, signal analysis, and time series processing to contribute to cutting-edge technology advancements.
     </li>
   </ul>
@@ -76,13 +76,11 @@ My experience includes 5 years of ML‑focused research experience and 3 interns
     - Signal Analysis<br>
     - Time Series Analysis <br>
     - Computer Vision <br>
-    - Precision Healthcare<br>
-    - Computational Neuroscience<br>
     Excited to apply my skills and contribute to impactful projects in these domains.
   </p> 
 
   <h3>What Drives Me 🚀</h3>
-  <p>I am driven by the belief that technology can significantly impact healthcare. My academic background and hands-on project experiences have equipped me with a strong foundation in computer science and data science. I am excited to continue exploring innovative solutions and contributing my skills to meaningful projects that make a difference in people's lives.</p>
+  <p>I am driven by the belief that technology can significantly impact healthcare, climate or society. My academic background and hands-on project experiences have equipped me with a strong foundation in computer science and data science. I am excited to continue exploring innovative solutions and contributing my skills to meaningful projects that make a difference in people's lives.</p>
 
   <h3>Let's Connect! 🌐</h3>
   <p>I am open to collaboration, networking, and exploring new opportunities. Feel free to reach out to me via email at <a href="mailto:illia.yankovyi@gmail.com">illia.yankovyi@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/illia-yankovyi/" target="_blank">LinkedIn</a>.</p>
